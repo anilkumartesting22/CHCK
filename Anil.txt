@@ -1,0 +1,31 @@
+1.what is the testing
+2.why we are going to use the testing 
+3.what is use of tesing
+==========================
+verification
+validation
+--------------------
+gmail
+click on go back button 
+click on go forword button
+click on reload button
+--------------------
+GUI Testing
+--------------
+verify the all elements properly working or not
+-----------------
+Valid credentials-------possitive testing
+----------------
+anilkumartesting141@gmail.com
+badkjcvad
+-------------------
+Negtive Testing
+-----------------
+aplphbets
+alphbets+Numbers
+alphbets+Numbers+special characters
+------------------
+1. Manual Testing
+2.Automation
+QTP
+Selinium
